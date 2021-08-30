@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '',
+        href: 'https://exchange.xspacedog.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: '',
+        href: 'https://exchange.xspacedog.finance/#/pool',
       },
     ],
   },
